@@ -1,0 +1,227 @@
+﻿@page
+@{
+    ViewData["Title"] = "Servicios - OptiMindSolutions";
+}
+
+<!-- Hero Section con imagen de fondo -->
+<section id="hero" class="hero-background text-center py-5">
+    <div class="container hero-content">
+        <h1 class="text-center mb-4">Nuestros Servicios</h1>
+        <p class="lead text-center mb-4">En OptiMindSolutions, ofrecemos soluciones personalizadas de inteligencia artificial para ayudar a las empresas a optimizar sus procesos, reducir costes y mejorar la eficiencia operativa. Descubre cómo cada uno de nuestros servicios puede transformar tu negocio.</p>
+    </div>
+</section>
+
+<section id="services" class="py-5">
+    <div class="container">
+
+        <div class="row">
+            <!-- Servicio 1: Consultoría en Automatización -->
+            <div class="col-md-6 col-lg-12 mb-4">
+                <div class="card shadow-sm h-100">
+                    <img src="/images/service1.jpg" class="card-img-top" alt="Consultoría en Automatización">
+                    <div class="card-body">
+                        <h5 class="card-title">Consultoría en Automatización</h5>
+                        <p class="card-text short-text" id="service1ShortText">Te ayudamos a identificar y automatizar los procesos repetitivos dentro de tu empresa. Con nuestra experiencia en IA, optimizamos la forma en que trabajas, haciendo que tus operaciones sean más rápidas y eficaces, lo que se traduce en menos errores y ahorro de tiempo.</p>
+                        <p class="card-text long-text collapse" id="service1LongText">
+                            Nuestra consultoría en automatización está diseñada para empresas que buscan dar un paso hacia la modernización y optimización de sus procesos operativos mediante la integración de tecnologías avanzadas, especialmente aquellas basadas en Inteligencia Artificial y automatización de flujos de trabajo. Nos especializamos en realizar un diagnóstico exhaustivo de los procesos internos de tu empresa, identificando los puntos críticos y las áreas con mayor potencial para ser optimizadas.
+                            <br><br>
+                            Realizamos un análisis detallado de los flujos de trabajo actuales, con el objetivo de comprender a fondo cómo se desarrollan las operaciones en cada departamento y cómo se pueden mejorar. Trabajamos estrechamente con tu equipo para identificar las tareas repetitivas y de bajo valor agregado que pueden ser automatizadas mediante herramientas de IA y RPA (Automatización de Procesos Robóticos), lo que permitirá liberar tiempo y recursos humanos para tareas más estratégicas y de mayor impacto.
+                            <br><br>
+                            Además de optimizar el tiempo de ejecución de procesos, nuestra consultoría se enfoca en mejorar la precisión y fiabilidad de las operaciones. Gracias a la implementación de soluciones inteligentes, reducimos el margen de error y mejoramos la consistencia de los resultados. Esto no solo aumenta la eficiencia, sino que también tiene un impacto positivo en la calidad de los productos y servicios que ofreces a tus clientes.
+                            <br><br>
+                            Al automatizar procesos, no solo lograrás una mejora en la productividad y eficiencia operativa, sino que también te permitirá adaptarte con agilidad a los cambios del mercado. Las soluciones que implementamos son escalables y personalizadas para satisfacer las necesidades específicas de tu empresa, de modo que puedas enfrentar con éxito el crecimiento y las demandas futuras sin que los procesos manuales se conviertan en un obstáculo.
+                            <br><br>
+                            Con nuestra consultoría en automatización, tu empresa podrá transformar sus operaciones, reduciendo costes operativos, mejorando la velocidad de ejecución y aumentando la capacidad de respuesta ante los retos del mercado. Te ayudamos a maximizar el potencial de tu equipo y a crear una infraestructura operativa ágil, inteligente y lista para afrontar los desafíos del futuro.</p>
+                        <a class="collapse-btn" href="javascript:void(0);" onclick="toggleText('service1')">
+                            <span id="service1Arrow" class="small-arrow">↓</span>
+                            <span id="service1Text">Ver más</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Servicio 2: Análisis de Datos con IA -->
+            <div class="col-md-6 col-lg-12 mb-4">
+                <div class="card shadow-sm h-100">
+                    <img src="/images/service2.jpg" class="card-img-top" alt="Análisis de Datos con IA">
+                    <div class="card-body">
+                        <h5 class="card-title">Análisis de Datos con IA</h5>
+                        <p class="card-text short-text" id="service2ShortText">Nuestro equipo utiliza la inteligencia artificial para analizar grandes cantidades de datos y ayudarte a tomar decisiones informadas. Gracias a nuestros algoritmos avanzados, podemos identificar patrones y tendencias que podrían pasar desapercibidos, ayudándote a optimizar tu estrategia empresarial.</p>
+                        
+                        <p class="card-text long-text collapse" id="service2LongText">
+                            Nuestro enfoque en el análisis de datos con IA se centra en proporcionar información valiosa que pueda transformar la toma de decisiones en tu negocio.
+                            <br><br>
+                            Aplicamos algoritmos avanzados de machine learning y big data para encontrar patrones ocultos en grandes volúmenes de datos, lo que te permite identificar oportunidades de mejora, prever tendencias futuras y optimizar tus procesos empresariales en tiempo real.<br>
+                            Te ayudamos a crear modelos predictivos que permiten una mejor planificación y estrategias más precisas.
+                            <br><br>
+                            Además, nuestra metodología va más allá de simplemente analizar los datos; nos centramos en proporcionar información práctica y accionable que se pueda aplicar directamente a la toma de decisiones. Con el uso de IA, no solo mejoramos la exactitud de las predicciones, sino que también optimizamos los tiempos de respuesta, permitiendo que tu empresa reaccione más rápido a los cambios del mercado.
+                            <br><br>
+                            Nuestro equipo trabaja contigo para implementar soluciones que no solo mejoran la eficiencia operativa, sino que también proporcionan una visión más clara y precisa de las tendencias del mercado y el comportamiento de los consumidores. Esto te permite tomar decisiones estratégicas que impulsen el crecimiento y la competitividad.
+                            <br><br>
+                            Además de la toma de decisiones informadas, la implementación de IA en el análisis de datos permite la automatización de muchos procesos, reduciendo la intervención manual y los márgenes de error, lo que resulta en una mejora continua en la calidad y fiabilidad de los datos.
+                            <br><br>
+                            Gracias a las soluciones personalizadas que ofrecemos, tendrás acceso a una ventaja competitiva al aprovechar la inteligencia de los datos para mejorar cada área de tu negocio. Desde la gestión de inventarios hasta la segmentación de clientes, el análisis predictivo con IA te proporciona el poder de anticiparte a los cambios y adaptarte proactivamente para mantenerte siempre un paso adelante.
+                        </p>
+                        <a class=" collapse-btn" href="javascript:void(0);" onclick="toggleText('service2')">
+                            <span id="service2Arrow" class="small-arrow">↓</span>
+                            <span id="service2Text">Ver más</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Servicio 3: Optimización del Servicio al Cliente -->
+            <div class="col-md-6 col-lg-12 mb-4">
+                <div class="card shadow-sm h-100">
+                    <img src="/images/service3.jpg" class="card-img-top" alt="Optimización del Servicio al Cliente">
+                    <div class="card-body">
+                        <h5 class="card-title">Optimización del Servicio al Cliente</h5>
+                        <p class="card-text short-text" id="service3ShortText">Mejoramos la interacción con tus clientes mediante la inteligencia artificial, personalizando las respuestas y automatizando las tareas repetitivas. Esto te permite ofrecer un servicio al cliente más eficiente y con una experiencia mejorada, generando confianza y fidelidad.</p>
+                        <p class="card-text long-text collapse" id="service3LongText">
+                            Nuestro servicio de optimización de atención al cliente se basa en el uso de chatbots inteligentes, sistemas de respuestas automatizadas y herramientas de análisis de sentimientos. <br><br>
+                            Con nuestras soluciones de IA, no solo puedes responder a las consultas de los clientes más rápido, sino también ofrecer una atención personalizada que se adapta a las necesidades individuales de cada usuario. Esto mejora significativamente la experiencia del cliente, creando una relación más estrecha y aumentando la satisfacción general. 
+                            <br><br>
+                            Además, nuestras herramientas avanzadas permiten un análisis profundo de las interacciones con los clientes, lo que ayuda a comprender mejor sus necesidades y preferencias. Utilizando el análisis de sentimientos, podemos identificar las emociones detrás de cada consulta, permitiendo que las respuestas sean más empáticas y adecuadas a cada situación. 
+                            <br><br>
+                            Al automatizar las respuestas a las preguntas más comunes, podemos liberar recursos humanos para que se enfoquen en casos más complejos y de mayor valor. Esto no solo mejora la eficiencia operativa, sino que también optimiza el tiempo de tu equipo, permitiéndoles dedicar más esfuerzo a la resolución de problemas complejos y a la mejora de la experiencia general del cliente. 
+                            <br><br>
+                            Con la integración de IA, tu empresa puede ofrecer un servicio de atención al cliente disponible 24/7, sin perder la calidad ni la personalización. Además, la capacidad de manejar múltiples interacciones simultáneamente reduce los tiempos de espera y mejora la agilidad del servicio. 
+                            <br><br>
+                            Nuestra solución de optimización no solo se limita a mejorar la atención directa al cliente, sino que también proporciona datos valiosos sobre el rendimiento del servicio, ayudando a identificar áreas de mejora y a ajustar continuamente las estrategias para ofrecer un servicio excepcional y eficiente.
+                        </p>
+                        <a class="collapse-btn" href="javascript:void(0);" onclick="toggleText('service3')">
+                            <span id="service3Arrow" class="small-arrow">↓</span>
+                            <span id="service3Text">Ver más</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Servicio 4: Consultoría en Eficiencia Operativa -->
+            <div class="col-md-6 col-lg-12 mb-4">
+                <div class="card shadow-sm h-100">
+                    <img src="/images/service4.jpg" class="card-img-top" alt="Consultoría en Eficiencia Operativa">
+                    <div class="card-body">
+                        <h5 class="card-title">Consultoría en Eficiencia Operativa</h5>
+                        <p class="card-text short-text" id="service4ShortText">Te ayudamos a mejorar la eficiencia en todas las áreas de tu empresa, desde la cadena de suministro hasta la gestión interna. Nuestra consultoría está diseñada para reducir costes operativos y optimizar cada aspecto de tu negocio, logrando procesos más ágiles y menos desperdicio.</p>
+                        <p class="card-text long-text collapse" id="service4LongText">
+                            Con nuestras soluciones basadas en inteligencia artificial, ayudamos a las empresas a optimizar sus campañas de marketing, analizando datos en tiempo real para comprender el comportamiento de los clientes y las tendencias del mercado. <br><br>
+                            Utilizamos algoritmos avanzados de machine learning para segmentar audiencias de manera precisa, lo que permite personalizar las campañas y aumentar su efectividad. Esto significa que puedes dirigir tus esfuerzos de marketing hacia el público adecuado en el momento justo, lo que incrementa las posibilidades de conversión y fidelización. <br><br>
+
+                            Además, nuestras soluciones ayudan a predecir el comportamiento de los consumidores, permitiéndote ajustar tu estrategia de marketing de forma proactiva. Esto se logra mediante modelos predictivos que analizan grandes volúmenes de datos, permitiendo identificar patrones y anticipar cambios en las preferencias de los clientes antes de que ocurran. <br><br>
+
+                            Las herramientas de análisis de datos también te proporcionan información detallada sobre la efectividad de tus campañas, ayudándote a optimizar el presupuesto y asignar recursos de manera más eficiente. Al medir en tiempo real los resultados, puedes realizar ajustes inmediatos para mejorar los rendimientos, reduciendo costes y maximizando el retorno de inversión (ROI). <br><br>
+
+                            Con nuestra ayuda, no solo aumentas la efectividad de tus campañas publicitarias, sino que también logras una mejor integración de tus esfuerzos de marketing a lo largo de todos los canales digitales. Esto te permite ofrecer una experiencia de marca consistente y optimizada para tus clientes en todas las plataformas. <br><br>
+
+                            En resumen, nuestras soluciones de inteligencia artificial para marketing te brindan el poder de tomar decisiones más inteligentes, mejorar la segmentación de tu audiencia y aumentar la eficacia de tus campañas, asegurando así el éxito a largo plazo de tus estrategias comerciales.
+                        </p>
+
+                        <a class="collapse-btn" href="javascript:void(0);" onclick="toggleText('service4')">
+                            <span id="service4Arrow" class="small-arrow">↓</span>
+                            <span id="service4Text">Ver más</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Servicio 5: Soluciones de Inteligencia Artificial para el Marketing -->
+            <div class="col-md-6 col-lg-12 mb-4">
+                <div class="card shadow-sm h-100">
+                    <img src="/images/service5.jpg" class="card-img-top" alt="Soluciones de Inteligencia Artificial para el Marketing">
+                    <div class="card-body">
+                        <h5 class="card-title">Soluciones de Inteligencia Artificial para el Marketing</h5>
+                        <p class="card-text short-text" id="service5ShortText">Con nuestras soluciones basadas en IA, optimizamos tus campañas de marketing, analizando el comportamiento de los clientes y segmentando audiencias de manera más precisa. Esto te permite aumentar la efectividad de tus campañas publicitarias, reducir costes y mejorar la conversión.</p>
+                        <p class="card-text long-text collapse" id="service5LongText">
+                            Utilizando tecnologías avanzadas de IA, ayudamos a las empresas a crear campañas de marketing mucho más personalizadas y eficaces. Nuestro enfoque se centra en analizar datos de clientes, comportamientos de compra y preferencias para crear segmentos de audiencia más precisos. <br><br>
+
+                            A través del análisis de grandes volúmenes de datos, identificamos patrones y tendencias que te permiten comprender mejor las necesidades y deseos de tu público objetivo. Esta información es clave para crear mensajes más relevantes y para dirigir las campañas de manera más estratégica. Al conocer mejor a tus clientes, podemos optimizar los puntos de contacto y mejorar la experiencia general que tienen con tu marca. <br><br>
+
+                            Con esta segmentación avanzada, diseñamos campañas publicitarias que llegan al público adecuado en el momento justo, aumentando significativamente la tasa de conversión. Esto se logra al personalizar los anuncios, ajustando los mensajes y ofertas según el comportamiento de compra de cada segmento de clientes, lo que incrementa la efectividad de la campaña. <br><br>
+
+                            Además, nuestra solución también permite automatizar el proceso de optimización de campañas en tiempo real. Mediante el uso de IA, monitoreamos el rendimiento de las campañas constantemente, ajustando las estrategias de manera dinámica para maximizar los resultados. Esto no solo aumenta la eficiencia, sino que también permite una gestión de recursos más eficaz, reduciendo costes operativos. <br><br>
+
+                            También nos aseguramos de que tu inversión publicitaria sea más rentable, ayudando a reducir los costes de adquisición de clientes (CAC). Mediante la utilización de algoritmos predictivos, podemos anticipar los comportamientos de los usuarios y orientar los esfuerzos de marketing hacia los segmentos con mayor probabilidad de conversión. <br><br>
+
+                            En resumen, nuestras soluciones de inteligencia artificial para marketing te ofrecen una ventaja competitiva significativa, ayudándote a comprender mejor a tu audiencia, personalizar tus campañas de manera más efectiva y obtener un mayor retorno sobre tu inversión.
+                        </p>
+
+                        <a class="collapse-btn" href="javascript:void(0);" onclick="toggleText('service5')">
+                            <span id="service5Arrow" class="small-arrow">↓</span>
+                            <span id="service5Text">Ver más</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Servicio 6: Mejora de la Gestión del Talento Humano -->
+            <div class="col-md-6 col-lg-12 mb-4">
+                <div class="card shadow-sm h-100">
+                    <img src="/images/service6.jpg" class="card-img-top" alt="Mejora de la Gestión del Talento Humano">
+                    <div class="card-body">
+                        <h5 class="card-title">Mejora de la Gestión del Talento Humano</h5>
+                        <p class="card-text short-text" id="service6ShortText">Ayudamos a las empresas a gestionar mejor su capital humano utilizando herramientas basadas en IA. Desde la selección de personal hasta la formación y la gestión de la productividad, nuestras soluciones facilitan la toma de decisiones y promueven un ambiente de trabajo más eficiente y motivador.</p>
+                        <p class="card-text long-text collapse" id="service6LongText">
+                            Nuestras soluciones en la gestión del talento humano utilizan IA para optimizar todos los aspectos del ciclo de vida laboral. Desde la contratación, pasando por la formación personalizada, hasta la evaluación continua del rendimiento, nuestras herramientas te permiten tomar decisiones basadas en datos. <br><br>
+
+                            Comenzamos con el proceso de contratación, utilizando algoritmos avanzados de IA para analizar currículums, entrevistas y perfiles de candidatos. Esto nos permite identificar a los mejores talentos basados en una evaluación objetiva de sus habilidades, experiencia y compatibilidad cultural con la empresa. Al automatizar la selección de personal, reducimos el tiempo invertido en este proceso y aumentamos las probabilidades de encontrar al candidato ideal. <br><br>
+
+                            Una vez contratado, la IA también juega un papel fundamental en la formación personalizada de los empleados. Utilizamos plataformas de aprendizaje adaptativo que ajustan el contenido formativo según el ritmo y estilo de aprendizaje de cada individuo. Esto asegura que todos los empleados reciban el tipo de formación que mejor se adapta a sus necesidades y fortalezas, promoviendo una curva de aprendizaje más rápida y eficaz. <br><br>
+
+                            Además, nuestras soluciones permiten evaluar de manera continua el rendimiento de los empleados mediante el análisis de datos objetivos y métricas clave. Esto no solo facilita la retroalimentación constante, sino que también ayuda a identificar áreas de mejora y a ofrecer oportunidades de crecimiento personalizadas. La retroalimentación continua es clave para fomentar un ambiente de trabajo motivador y de desarrollo constante. <br><br>
+
+                            La IA también ayuda a predecir y reducir la rotación de personal, analizando factores como la satisfacción laboral, el compromiso y el desempeño de los empleados. Con esta información, podemos anticipar posibles problemas y tomar medidas para mejorar la retención, asegurando que los empleados se sientan valorados y motivados. <br><br>
+
+                            Finalmente, nuestras soluciones fomentan un entorno de trabajo más colaborativo, mediante la mejora de la comunicación y la integración de herramientas colaborativas inteligentes. Esto facilita la coordinación entre equipos y la toma de decisiones más informadas y ágiles. Al crear un ambiente de trabajo que promueve el compromiso, la productividad aumenta y el ambiente laboral se hace más saludable. <br><br>
+
+                            En resumen, nuestras soluciones de IA para la gestión del talento humano no solo mejoran la productividad, sino que también contribuyen a crear un entorno de trabajo positivo y motivador, ayudando a las empresas a retener a los mejores talentos y optimizar su fuerza laboral.
+                        </p>
+                        <a class="collapse-btn" href="javascript:void(0);" onclick="toggleText('service6')">
+                            <span id="service6Arrow" class="small-arrow">↓</span>
+                            <span id="service6Text">Ver más</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<!-- Línea de separación elegante -->
+<hr style="border-top: 2px solid #ddd; margin: 40px 0;">
+
+
+<!-- Sección de Imagen y Texto de Cierre -->
+<section id="closing" class="py-5" style="background-color: #f8f9fa;">
+    <div class="container text-center">
+        <h2 class="font-weight-bold mb-4">Únete a Nosotros en Este Viaje</h2>
+        <p class="lead mb-4">Estamos listos para ayudar a tu empresa a transformar sus procesos. Conviértete en parte de nuestra visión y lleva a tu organización hacia el futuro con la inteligencia artificial.</p>
+        <a href="/Contact" class="btn btn-primary btn-lg">Reserva tu consulta</a>
+    </div>
+</section>
+
+
+<script>
+    function toggleText(serviceId) {
+        // Cambiar texto corto y largo
+        var shortText = document.getElementById(serviceId + 'ShortText');
+        var longText = document.getElementById(serviceId + 'LongText');
+        var arrow = document.getElementById(serviceId + 'Arrow');
+        var textLink = document.getElementById(serviceId + 'Text');
+
+        if (shortText.style.display === "none") {
+            shortText.style.display = "block";
+            longText.style.display = "none";
+            arrow.textContent = "↓ ";
+            textLink.textContent = "Ver más";
+        } else {
+            shortText.style.display = "none";
+            longText.style.display = "block";
+            arrow.textContent = "↑ ";
+            textLink.textContent = "Ver menos";
+        }
+    }
+</script>
+

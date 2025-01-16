@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleja\\OneDrive - Universidad Rey Juan Carlos\\UNIVERSIDAD\\pr\u00E1cticas y tfg\\OptiMindSolutions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68676431-C5B7-4DD9-86AD-2B555E99102E}|OptiMindSolutions.csproj|c:\\users\\aleja\\onedrive - universidad rey juan carlos\\universidad\\pr\u00E1cticas y tfg\\optimindsolutions\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68676431-C5B7-4DD9-86AD-2B555E99102E}|OptiMindSolutions.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68676431-C5B7-4DD9-86AD-2B555E99102E}|OptiMindSolutions.csproj|c:\\users\\aleja\\onedrive - universidad rey juan carlos\\universidad\\pr\u00E1cticas y tfg\\optimindsolutions\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68676431-C5B7-4DD9-86AD-2B555E99102E}|OptiMindSolutions.csproj|solutionrelative:pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68676431-C5B7-4DD9-86AD-2B555E99102E}|OptiMindSolutions.csproj|c:\\users\\aleja\\onedrive - universidad rey juan carlos\\universidad\\pr\u00E1cticas y tfg\\optimindsolutions\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68676431-C5B7-4DD9-86AD-2B555E99102E}|OptiMindSolutions.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68676431-C5B7-4DD9-86AD-2B555E99102E}|OptiMindSolutions.csproj|c:\\users\\aleja\\onedrive - universidad rey juan carlos\\universidad\\pr\u00E1cticas y tfg\\optimindsolutions\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68676431-C5B7-4DD9-86AD-2B555E99102E}|OptiMindSolutions.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68676431-C5B7-4DD9-86AD-2B555E99102E}|OptiMindSolutions.csproj|c:\\users\\aleja\\onedrive - universidad rey juan carlos\\universidad\\pr\u00E1cticas y tfg\\optimindsolutions\\wwwroot\\css\\optimindsolutions.styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{68676431-C5B7-4DD9-86AD-2B555E99102E}|OptiMindSolutions.csproj|solutionrelative:wwwroot\\css\\optimindsolutions.styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68676431-C5B7-4DD9-86AD-2B555E99102E}|OptiMindSolutions.csproj|c:\\users\\aleja\\onedrive - universidad rey juan carlos\\universidad\\pr\u00E1cticas y tfg\\optimindsolutions\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68676431-C5B7-4DD9-86AD-2B555E99102E}|OptiMindSolutions.csproj|solutionrelative:pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68676431-C5B7-4DD9-86AD-2B555E99102E}|OptiMindSolutions.csproj|c:\\users\\aleja\\onedrive - universidad rey juan carlos\\universidad\\pr\u00E1cticas y tfg\\optimindsolutions\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68676431-C5B7-4DD9-86AD-2B555E99102E}|OptiMindSolutions.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68676431-C5B7-4DD9-86AD-2B555E99102E}|OptiMindSolutions.csproj|c:\\users\\aleja\\onedrive - universidad rey juan carlos\\universidad\\pr\u00E1cticas y tfg\\optimindsolutions\\pages\\faq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68676431-C5B7-4DD9-86AD-2B555E99102E}|OptiMindSolutions.csproj|solutionrelative:pages\\faq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68676431-C5B7-4DD9-86AD-2B555E99102E}|OptiMindSolutions.csproj|c:\\users\\aleja\\onedrive - universidad rey juan carlos\\universidad\\pr\u00E1cticas y tfg\\optimindsolutions\\pages\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68676431-C5B7-4DD9-86AD-2B555E99102E}|OptiMindSolutions.csproj|solutionrelative:pages\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68676431-C5B7-4DD9-86AD-2B555E99102E}|OptiMindSolutions.csproj|c:\\users\\aleja\\onedrive - universidad rey juan carlos\\universidad\\pr\u00E1cticas y tfg\\optimindsolutions\\pages\\location.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68676431-C5B7-4DD9-86AD-2B555E99102E}|OptiMindSolutions.csproj|solutionrelative:pages\\location.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68676431-C5B7-4DD9-86AD-2B555E99102E}|OptiMindSolutions.csproj|c:\\users\\aleja\\onedrive - universidad rey juan carlos\\universidad\\pr\u00E1cticas y tfg\\optimindsolutions\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68676431-C5B7-4DD9-86AD-2B555E99102E}|OptiMindSolutions.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive - Universidad Rey Juan Carlos\\UNIVERSIDAD\\pr\u00E1cticas y tfg\\OptiMindSolutions\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive - Universidad Rey Juan Carlos\\UNIVERSIDAD\\pr\u00E1cticas y tfg\\OptiMindSolutions\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T17:14:50.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Location.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive - Universidad Rey Juan Carlos\\UNIVERSIDAD\\pr\u00E1cticas y tfg\\OptiMindSolutions\\Pages\\Location.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Location.cshtml",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive - Universidad Rey Juan Carlos\\UNIVERSIDAD\\pr\u00E1cticas y tfg\\OptiMindSolutions\\Pages\\Location.cshtml",
+              "RelativeToolTip": "Pages\\Location.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T17:33:21.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive - Universidad Rey Juan Carlos\\UNIVERSIDAD\\pr\u00E1cticas y tfg\\OptiMindSolutions\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive - Universidad Rey Juan Carlos\\UNIVERSIDAD\\pr\u00E1cticas y tfg\\OptiMindSolutions\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T17:33:20.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FAQ.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive - Universidad Rey Juan Carlos\\UNIVERSIDAD\\pr\u00E1cticas y tfg\\OptiMindSolutions\\Pages\\FAQ.cshtml",
+              "RelativeDocumentMoniker": "Pages\\FAQ.cshtml",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive - Universidad Rey Juan Carlos\\UNIVERSIDAD\\pr\u00E1cticas y tfg\\OptiMindSolutions\\Pages\\FAQ.cshtml",
+              "RelativeToolTip": "Pages\\FAQ.cshtml",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAgwK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T17:32:43.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive - Universidad Rey Juan Carlos\\UNIVERSIDAD\\pr\u00E1cticas y tfg\\OptiMindSolutions\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive - Universidad Rey Juan Carlos\\UNIVERSIDAD\\pr\u00E1cticas y tfg\\OptiMindSolutions\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Pages\\Error.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T17:32:37.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "optiMindSolutions.styles.css",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive - Universidad Rey Juan Carlos\\UNIVERSIDAD\\pr\u00E1cticas y tfg\\OptiMindSolutions\\wwwroot\\css\\optiMindSolutions.styles.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\optiMindSolutions.styles.css",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive - Universidad Rey Juan Carlos\\UNIVERSIDAD\\pr\u00E1cticas y tfg\\OptiMindSolutions\\wwwroot\\css\\optiMindSolutions.styles.css",
+              "RelativeToolTip": "wwwroot\\css\\optiMindSolutions.styles.css",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAqwH0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-19T17:02:35.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive - Universidad Rey Juan Carlos\\UNIVERSIDAD\\pr\u00E1cticas y tfg\\OptiMindSolutions\\Pages\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive - Universidad Rey Juan Carlos\\UNIVERSIDAD\\pr\u00E1cticas y tfg\\OptiMindSolutions\\Pages\\Contact.cshtml",
+              "RelativeToolTip": "Pages\\Contact.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T21:51:50.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive - Universidad Rey Juan Carlos\\UNIVERSIDAD\\pr\u00E1cticas y tfg\\OptiMindSolutions\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive - Universidad Rey Juan Carlos\\UNIVERSIDAD\\pr\u00E1cticas y tfg\\OptiMindSolutions\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T17:34:15.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive - Universidad Rey Juan Carlos\\UNIVERSIDAD\\pr\u00E1cticas y tfg\\OptiMindSolutions\\Pages\\About.cshtml",
+              "RelativeDocumentMoniker": "Pages\\About.cshtml",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive - Universidad Rey Juan Carlos\\UNIVERSIDAD\\pr\u00E1cticas y tfg\\OptiMindSolutions\\Pages\\About.cshtml",
+              "RelativeToolTip": "Pages\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T18:01:48.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive - Universidad Rey Juan Carlos\\UNIVERSIDAD\\pr\u00E1cticas y tfg\\OptiMindSolutions\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive - Universidad Rey Juan Carlos\\UNIVERSIDAD\\pr\u00E1cticas y tfg\\OptiMindSolutions\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Controllers\\ContactController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:13:39.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive - Universidad Rey Juan Carlos\\UNIVERSIDAD\\pr\u00E1cticas y tfg\\OptiMindSolutions\\Pages\\Services.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Services.cshtml",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive - Universidad Rey Juan Carlos\\UNIVERSIDAD\\pr\u00E1cticas y tfg\\OptiMindSolutions\\Pages\\Services.cshtml",
+              "RelativeToolTip": "Pages\\Services.cshtml",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAgwOMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T18:04:17.608Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

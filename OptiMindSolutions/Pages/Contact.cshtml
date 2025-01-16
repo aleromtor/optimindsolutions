@@ -1,0 +1,108 @@
+﻿@page
+@{
+    ViewData["Title"] = "Contacto - OptiMindSolutions";
+    var whatsappNumber = "34642556779"; // Número de WhatsApp con código de país sin '+'
+    var whatsappUrl = $"https://wa.me/{whatsappNumber}";
+}
+
+<!-- Sección de contacto -->
+<section id="contact" class="py-5 bg-light">
+    <div class="container">
+        <h2 class="text-center mb-4">Reserva una Consulta</h2>
+        <p class="text-center mb-5">
+            Déjanos tus datos y te contactaremos para agendar una cita con uno de nuestros expertos en inteligencia artificial.
+        </p>
+
+        <div class="row justify-content-center">
+            <!-- Formulario de contacto centrado -->
+            <div class="col-md-6">
+                <form id="contactForm" class="contact-form">
+                    <div class="mb-3">
+                        <label for="name" class="form-label">Nombre:</label>
+                        <input type="text" id="name" name="Name" class="form-control" placeholder="Ingresa tu nombre" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="phone" class="form-label">Teléfono:</label>
+                        <input type="text" id="phone" name="Phone" class="form-control" placeholder="Ingresa tu teléfono" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="email" class="form-label">Correo Electrónico:</label>
+                        <input type="email" id="email" name="Email" class="form-control" placeholder="Ingresa tu correo" required>
+                    </div>
+                    <div class="text-center">
+                        <button type="button" id="callButton" class="btn btn-primary">Llamar</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Fila para los datos de contacto y el botón de WhatsApp -->
+<div class="row justify-content-center align-items-center mt-5">
+    <div class="col-md-5">
+        <div class="contact-info text-center p-3 border rounded bg-white shadow-sm">
+            <!-- Título centrado encima de los datos -->
+            <h4 class="mb-3">Datos de Contacto</h4>
+            <ul class="list-unstyled mb-0">
+                <li><strong>Teléfono:</strong> +34 912 345 678</li>
+                <li><strong>Correo Electrónico:</strong> contacto@optimindsolutions.com</li>
+                <li><strong>Dirección:</strong> Calle Ejemplo 123, Madrid, España</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="col-md-5">
+        <div class="text-center p-3 border rounded bg-white shadow-sm">
+            <p class="mb-2">Contáctanos por WhatsApp</p>
+            <a href="@whatsappUrl" target="_blank" class="whatsapp-button" title="Contáctanos por WhatsApp">
+                <i class="fab fa-whatsapp"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+
+<!-- Sección de mapa -->
+<section id="location" class="py-5">
+    <div class="container">
+        <h2 class="text-center mb-4">Nuestra Ubicación</h2>
+        <div class="map-container">
+            <iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-3.705047607421875%2C40.41325584099885%2C-3.70145320892334%2C40.4188885231698&layer=mapnik"
+                    width="100%" height="400" frameborder="0" style="border:0;" allowfullscreen></iframe>
+        </div>
+    </div>
+</section>
+
+
+<script>
+    document.getElementById("callButton").addEventListener("click", async () => {
+        const name = document.getElementById("name").value;
+        const phone = document.getElementById("phone").value;
+        const email = document.getElementById("email").value;
+
+        const requestBody = {
+            name,
+            phone,
+            email
+        };
+
+        try {
+            const response = await fetch("/Call", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify(requestBody)
+            });
+
+            if (response.ok) {
+                alert("Llamada programada correctamente.");
+            } else {
+                const error = await response.text();
+                alert(`Error en la solicitud de llamada: ${error}`);
+            }
+        } catch (error) {
+            alert(`Error en la conexión: ${error.message}`);
+        }
+    });
+</script>

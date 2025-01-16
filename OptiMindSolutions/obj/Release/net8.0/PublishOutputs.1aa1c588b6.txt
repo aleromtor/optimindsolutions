@@ -1,0 +1,7 @@
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\UNIVERSIDAD\prácticas y tfg\OptiMindSolutions\obj\Release\net8.0\PubTmp\Out\OptiMindSolutions.exe
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\UNIVERSIDAD\prácticas y tfg\OptiMindSolutions\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\UNIVERSIDAD\prácticas y tfg\OptiMindSolutions\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\UNIVERSIDAD\prácticas y tfg\OptiMindSolutions\obj\Release\net8.0\PubTmp\Out\OptiMindSolutions.dll
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\UNIVERSIDAD\prácticas y tfg\OptiMindSolutions\obj\Release\net8.0\PubTmp\Out\OptiMindSolutions.deps.json
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\UNIVERSIDAD\prácticas y tfg\OptiMindSolutions\obj\Release\net8.0\PubTmp\Out\OptiMindSolutions.runtimeconfig.json
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\UNIVERSIDAD\prácticas y tfg\OptiMindSolutions\obj\Release\net8.0\PubTmp\Out\OptiMindSolutions.pdb
