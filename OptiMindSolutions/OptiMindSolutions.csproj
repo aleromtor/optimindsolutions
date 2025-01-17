@@ -8,21 +8,21 @@
 
   <ItemGroup>
     <Compile Remove="wwwroot\images2\**" />
+    <Compile Remove="wwwroot\NewFolder1\**" />
     <Compile Remove="wwwroot\NewFolder\**" />
     <Content Remove="wwwroot\images2\**" />
+    <Content Remove="wwwroot\NewFolder1\**" />
     <Content Remove="wwwroot\NewFolder\**" />
     <EmbeddedResource Remove="wwwroot\images2\**" />
+    <EmbeddedResource Remove="wwwroot\NewFolder1\**" />
     <EmbeddedResource Remove="wwwroot\NewFolder\**" />
     <None Remove="wwwroot\images2\**" />
+    <None Remove="wwwroot\NewFolder1\**" />
     <None Remove="wwwroot\NewFolder\**" />
   </ItemGroup>
 
   <ItemGroup>
     <Compile Remove="Pages\About-cshtml.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="wwwroot\NewFolder1\" />
   </ItemGroup>
 
 </Project>

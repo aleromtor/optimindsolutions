@@ -121,3 +121,38 @@ C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\UNIVERSIDAD\prácticas y t
 C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\UNIVERSIDAD\prácticas y tfg\OptiMindSolutions\bin\Debug\net8.0\OptiMindSolutions.staticwebassets.endpoints.json
 C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\UNIVERSIDAD\prácticas y tfg\OptiMindSolutions\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\UNIVERSIDAD\prácticas y tfg\OptiMindSolutions\obj\Debug\net8.0\staticwebassets\msbuild.OptiMindSolutions.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\bin\Debug\net8.0\appsettings.json
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\bin\Debug\net8.0\OptiMindSolutions.staticwebassets.endpoints.json
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\bin\Debug\net8.0\OptiMindSolutions.staticwebassets.runtime.json
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\bin\Debug\net8.0\OptiMindSolutions.exe
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\bin\Debug\net8.0\OptiMindSolutions.deps.json
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\bin\Debug\net8.0\OptiMindSolutions.runtimeconfig.json
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\bin\Debug\net8.0\OptiMindSolutions.dll
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\bin\Debug\net8.0\OptiMindSolutions.pdb
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\obj\Debug\net8.0\OptiMindSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\obj\Debug\net8.0\OptiMindSolutions.AssemblyInfoInputs.cache
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\obj\Debug\net8.0\OptiMindSolutions.AssemblyInfo.cs
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\obj\Debug\net8.0\OptiMindSolutions.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\obj\Debug\net8.0\OptiMindSolutions.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\obj\Debug\net8.0\OptiMindSolutions.RazorAssemblyInfo.cache
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\obj\Debug\net8.0\OptiMindSolutions.RazorAssemblyInfo.cs
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\obj\Debug\net8.0\OptiMindSolutions.sourcelink.json
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\obj\Debug\net8.0\scopedcss\bundle\OptiMindSolutions.styles.css
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\obj\Debug\net8.0\scopedcss\projectbundle\OptiMindSolutions.bundle.scp.css
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\obj\Debug\net8.0\staticwebassets\msbuild.OptiMindSolutions.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\obj\Debug\net8.0\staticwebassets\msbuild.OptiMindSolutions.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\obj\Debug\net8.0\staticwebassets\msbuild.build.OptiMindSolutions.props
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OptiMindSolutions.props
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OptiMindSolutions.props
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\obj\Debug\net8.0\OptiMindSolutions.dll
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\obj\Debug\net8.0\refint\OptiMindSolutions.dll
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\obj\Debug\net8.0\OptiMindSolutions.pdb
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\obj\Debug\net8.0\OptiMindSolutions.genruntimeconfig.cache
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\obj\Debug\net8.0\ref\OptiMindSolutions.dll

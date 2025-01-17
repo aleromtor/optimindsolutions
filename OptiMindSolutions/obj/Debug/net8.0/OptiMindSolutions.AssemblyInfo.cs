@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OptiMindSolutions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7f3e58e87236a7a156aa90712926552e277afb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("OptiMindSolutions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OptiMindSolutions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
