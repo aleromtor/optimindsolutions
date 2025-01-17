@@ -1,3 +1,4 @@
+C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\wwwroot\images\about-us.jpg
 C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\wwwroot\lib\bootstrap\LICENSE
 C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\wwwroot\lib\jquery\LICENSE.txt
 C:\Users\aleja\OneDrive - Universidad Rey Juan Carlos\Documentos\GitHub\optimindsolutions\OptiMindSolutions\wwwroot\lib\jquery-validation\LICENSE.md
